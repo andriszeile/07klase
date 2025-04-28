@@ -1,0 +1,32 @@
+body {
+    background-color: mistyrose;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: crimson;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+    color: darkorange;
+}
+
+p {
+    background-color: linen;
+    color: darkred;
+    width: 60%;
+    font-size: 18px;
+    border: 1px solid darkorange;
+    border-radius: 8px;
+    padding: 18px;
+    margin: 0 auto 20px;
+}
